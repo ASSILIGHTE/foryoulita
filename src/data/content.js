@@ -101,7 +101,7 @@ export const contentData = {
     wishMadeTitle: "Happy Birthday, My Love ❤️",
     wishMadeSubtitle: "Here's to another beautiful chapter of us. Maaf yaa tidak bisaa hadir langsungg ke sby. Semogaa keinginan kamu semuanya tercapaiiii sayangg"},
   final: {
-    quote: "Still choosing you. Every single time. ❤️",
+    quote: "Still choosing you. Every single time.  i loveee uuu 3000000🤍",
     heading: "Happy Birthday, Sayang.",
     date: "12 • 11 • 2026",
     footer: "-Wiyaa"
